@@ -1,0 +1,5 @@
+Junit 5 -> core platform + jupiter + vintage
+core platform -> resposible to run test cases
+jupiter -> provides API's to write test cases
+vintage -> gives support to run junit4,3 test cases in 5.
+
